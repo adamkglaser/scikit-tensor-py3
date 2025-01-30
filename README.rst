@@ -1,3 +1,5 @@
+This fork changes ``np.float`` to ``float`` for compatability with the latest numpy releases.
+
 Note: this package is not maintained. It was mostly translated to
 Python 3 to enable installation of other packages that use
 scikit-tensor as a dependency. Please see if something like `TensorLy
